@@ -1,0 +1,16 @@
+{
+  "name": "printbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donny Kurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "telegraf": "^4.7.0",
+    "unix-print": "^1.1.0"
+  }
+}
